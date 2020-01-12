@@ -1,4 +1,4 @@
-# Kelsin's 18xx Prototyping React Library
+# hectorstudio's 18xx Prototyping React Library
 
 This is a small pet project to help layout and print
 [18xx](https://en.wikipedia.org/wiki/18XX) games.
